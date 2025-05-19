@@ -1,7 +1,7 @@
 ## Hi👋, moi c'est Namine
 🔗A propos de moi:
 - 🎓 Etudiant en génie logiciel à l'Institut Africain d'Infomatique
-- 💻 Passionné par le développement web/Mobile et la cybersécurité
+- 💻 Passionné par le développement web, Mobile, desktop et la cybersécurité
 - 🌱 Apprend actuellement Laravel, Django et Flutter
 
 🛠️ Tech Stack  :
@@ -20,7 +20,9 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
 
 🗄️ Base de Données  :
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)  &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) &nbsp;
+
 
 🔧 Outils et Logiciels  :
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
