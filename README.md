@@ -1,8 +1,6 @@
 ## Hi👋, moi c'est Namine
 🔗A propos de moi:
-- 🎓 Etudiant en génie logiciel à l'Institut Africain d'Infomatique
 - 💻 Passionné par le développement web, Mobile, desktop et la cybersécurité
-- 🌱 Apprend actuellement Laravel, Django et Flutter
 
 🛠️ Tech Stack  :
 
